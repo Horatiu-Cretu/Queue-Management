@@ -1,0 +1,367 @@
+
+
+Time:0
+Clients Waiting:
+Client ID: 2, Arrival Time: 6, Waiting Time: 2Client ID: 4, Arrival Time: 7, Waiting Time: 3Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:1
+Clients Waiting:
+Client ID: 2, Arrival Time: 6, Waiting Time: 2Client ID: 4, Arrival Time: 7, Waiting Time: 3Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:2
+Clients Waiting:
+Client ID: 2, Arrival Time: 6, Waiting Time: 2Client ID: 4, Arrival Time: 7, Waiting Time: 3Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:3
+Clients Waiting:
+Client ID: 2, Arrival Time: 6, Waiting Time: 2Client ID: 4, Arrival Time: 7, Waiting Time: 3Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:4
+Clients Waiting:
+Client ID: 2, Arrival Time: 6, Waiting Time: 2Client ID: 4, Arrival Time: 7, Waiting Time: 3Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:5
+Clients Waiting:
+Client ID: 2, Arrival Time: 6, Waiting Time: 2Client ID: 4, Arrival Time: 7, Waiting Time: 3Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:6
+Clients Waiting:
+Client ID: 2, Arrival Time: 6, Waiting Time: 2Client ID: 4, Arrival Time: 7, Waiting Time: 3Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:7
+Clients Waiting:
+Client ID: 4, Arrival Time: 7, Waiting Time: 3Client ID: 1, Arrival Time: 14, Waiting Time: 3Client ID: 3, Arrival Time: 11, Waiting Time: 2
+Queue 1: 2, 
+Queue 2: 
+
+Time:8
+Clients Waiting:
+Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 4, 
+
+Time:9
+Clients Waiting:
+Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 4, 
+
+Time:10
+Clients Waiting:
+Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:11
+Clients Waiting:
+Client ID: 3, Arrival Time: 11, Waiting Time: 2Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:12
+Clients Waiting:
+Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 3, 
+Queue 2: 
+
+Time:13
+Clients Waiting:
+Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:14
+Clients Waiting:
+Client ID: 1, Arrival Time: 14, Waiting Time: 3
+Queue 1: 
+Queue 2: 
+
+Time:15
+Clients Waiting:
+
+Queue 1: 1, 
+Queue 2: 
+
+Time:16
+Clients Waiting:
+
+Queue 1: 1, 
+Queue 2: 
+
+Time:17
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:18
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:19
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:20
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:21
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:22
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:23
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:24
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:25
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:26
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:27
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:28
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:29
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:30
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:31
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:32
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:33
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:34
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:35
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:36
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:37
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:38
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:39
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:40
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:41
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:42
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:43
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:44
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:45
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:46
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:47
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:48
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:49
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:50
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:51
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:52
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:53
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:54
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:55
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:56
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:57
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:58
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:59
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+
+Time:60
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 

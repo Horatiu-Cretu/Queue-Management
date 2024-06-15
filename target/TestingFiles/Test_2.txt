@@ -1,0 +1,550 @@
+
+
+Time:0
+Clients Waiting:
+Client ID: 12, Arrival Time: 3, Waiting Time: 1Client ID: 21, Arrival Time: 3, Waiting Time: 5Client ID: 10, Arrival Time: 4, Waiting Time: 1Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 23, Arrival Time: 6, Waiting Time: 1Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 25, Arrival Time: 36, Waiting Time: 5
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:1
+Clients Waiting:
+Client ID: 12, Arrival Time: 3, Waiting Time: 1Client ID: 21, Arrival Time: 3, Waiting Time: 5Client ID: 10, Arrival Time: 4, Waiting Time: 1Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 23, Arrival Time: 6, Waiting Time: 1Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 25, Arrival Time: 36, Waiting Time: 5
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:2
+Clients Waiting:
+Client ID: 12, Arrival Time: 3, Waiting Time: 1Client ID: 21, Arrival Time: 3, Waiting Time: 5Client ID: 10, Arrival Time: 4, Waiting Time: 1Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 23, Arrival Time: 6, Waiting Time: 1Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 25, Arrival Time: 36, Waiting Time: 5
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:3
+Clients Waiting:
+Client ID: 12, Arrival Time: 3, Waiting Time: 1Client ID: 21, Arrival Time: 3, Waiting Time: 5Client ID: 10, Arrival Time: 4, Waiting Time: 1Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 23, Arrival Time: 6, Waiting Time: 1Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 25, Arrival Time: 36, Waiting Time: 5
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:4
+Clients Waiting:
+Client ID: 10, Arrival Time: 4, Waiting Time: 1Client ID: 23, Arrival Time: 6, Waiting Time: 1Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4
+Queue 1: 
+Queue 2: 21, 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:5
+Clients Waiting:
+Client ID: 23, Arrival Time: 6, Waiting Time: 1Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5
+Queue 1: 
+Queue 2: 21, 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:6
+Clients Waiting:
+Client ID: 23, Arrival Time: 6, Waiting Time: 1Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5
+Queue 1: 
+Queue 2: 21, 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:7
+Clients Waiting:
+Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2
+Queue 1: 
+Queue 2: 21, 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:8
+Clients Waiting:
+Client ID: 33, Arrival Time: 8, Waiting Time: 4Client ID: 5, Arrival Time: 8, Waiting Time: 6Client ID: 29, Arrival Time: 8, Waiting Time: 5Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:9
+Clients Waiting:
+Client ID: 38, Arrival Time: 9, Waiting Time: 2Client ID: 1, Arrival Time: 9, Waiting Time: 6Client ID: 49, Arrival Time: 9, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4
+Queue 1: 33, 
+Queue 2: 5, 
+Queue 3: 29, 
+Queue 4: 
+Queue 5: 
+
+Time:10
+Clients Waiting:
+Client ID: 40, Arrival Time: 10, Waiting Time: 5Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 28, Arrival Time: 10, Waiting Time: 5Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 11, Arrival Time: 34, Waiting Time: 4
+Queue 1: 33, 
+Queue 2: 5, 
+Queue 3: 29, 
+Queue 4: 38, 49, 
+Queue 5: 1, 
+
+Time:11
+Clients Waiting:
+Client ID: 17, Arrival Time: 11, Waiting Time: 2Client ID: 41, Arrival Time: 11, Waiting Time: 1Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 42, Arrival Time: 11, Waiting Time: 1Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 22, Arrival Time: 11, Waiting Time: 6Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4
+Queue 1: 33, 28, 
+Queue 2: 5, 
+Queue 3: 29, 
+Queue 4: 49, 40, 
+Queue 5: 1, 
+
+Time:12
+Clients Waiting:
+Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3
+Queue 1: 28, 17, 41, 42, 22, 
+Queue 2: 5, 
+Queue 3: 29, 
+Queue 4: 49, 40, 
+Queue 5: 1, 
+
+Time:13
+Clients Waiting:
+Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3
+Queue 1: 28, 17, 41, 42, 22, 
+Queue 2: 5, 
+Queue 3: 
+Queue 4: 49, 40, 
+Queue 5: 1, 
+
+Time:14
+Clients Waiting:
+Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3
+Queue 1: 28, 17, 41, 42, 22, 
+Queue 2: 
+Queue 3: 
+Queue 4: 40, 
+Queue 5: 1, 
+
+Time:15
+Clients Waiting:
+Client ID: 16, Arrival Time: 15, Waiting Time: 4Client ID: 34, Arrival Time: 15, Waiting Time: 6Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3
+Queue 1: 22, 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:16
+Clients Waiting:
+Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5
+Queue 1: 22, 
+Queue 2: 16, 
+Queue 3: 34, 
+Queue 4: 
+Queue 5: 
+
+Time:17
+Clients Waiting:
+Client ID: 2, Arrival Time: 17, Waiting Time: 5Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5
+Queue 1: 
+Queue 2: 16, 
+Queue 3: 34, 
+Queue 4: 
+Queue 5: 
+
+Time:18
+Clients Waiting:
+Client ID: 30, Arrival Time: 18, Waiting Time: 6Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1
+Queue 1: 2, 
+Queue 2: 16, 
+Queue 3: 34, 
+Queue 4: 
+Queue 5: 
+
+Time:19
+Clients Waiting:
+Client ID: 36, Arrival Time: 19, Waiting Time: 2Client ID: 19, Arrival Time: 19, Waiting Time: 6Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4
+Queue 1: 2, 
+Queue 2: 
+Queue 3: 34, 
+Queue 4: 30, 
+Queue 5: 
+
+Time:20
+Clients Waiting:
+Client ID: 44, Arrival Time: 20, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 48, Arrival Time: 20, Waiting Time: 5Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 14, Arrival Time: 39, Waiting Time: 2
+Queue 1: 2, 
+Queue 2: 36, 
+Queue 3: 34, 
+Queue 4: 30, 
+Queue 5: 19, 
+
+Time:21
+Clients Waiting:
+Client ID: 45, Arrival Time: 21, Waiting Time: 1Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 26, Arrival Time: 39, Waiting Time: 4
+Queue 1: 2, 
+Queue 2: 48, 
+Queue 3: 
+Queue 4: 30, 
+Queue 5: 19, 
+
+Time:22
+Clients Waiting:
+Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 32, Arrival Time: 35, Waiting Time: 5
+Queue 1: 
+Queue 2: 48, 
+Queue 3: 
+Queue 4: 30, 
+Queue 5: 19, 
+
+Time:23
+Clients Waiting:
+Client ID: 35, Arrival Time: 23, Waiting Time: 3Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 32, Arrival Time: 35, Waiting Time: 5
+Queue 1: 
+Queue 2: 48, 
+Queue 3: 
+Queue 4: 30, 
+Queue 5: 19, 
+
+Time:24
+Clients Waiting:
+Client ID: 50, Arrival Time: 24, Waiting Time: 3Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 14, Arrival Time: 39, Waiting Time: 2
+Queue 1: 35, 
+Queue 2: 48, 
+Queue 3: 
+Queue 4: 
+Queue 5: 19, 
+
+Time:25
+Clients Waiting:
+Client ID: 7, Arrival Time: 25, Waiting Time: 3Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 43, Arrival Time: 36, Waiting Time: 4
+Queue 1: 35, 
+Queue 2: 
+Queue 3: 50, 
+Queue 4: 
+Queue 5: 
+
+Time:26
+Clients Waiting:
+Client ID: 15, Arrival Time: 26, Waiting Time: 3Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 18, Arrival Time: 39, Waiting Time: 3
+Queue 1: 
+Queue 2: 7, 
+Queue 3: 50, 
+Queue 4: 
+Queue 5: 
+
+Time:27
+Clients Waiting:
+Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6
+Queue 1: 15, 
+Queue 2: 7, 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:28
+Clients Waiting:
+Client ID: 4, Arrival Time: 28, Waiting Time: 1Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 24, Arrival Time: 28, Waiting Time: 6Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6
+Queue 1: 15, 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:29
+Clients Waiting:
+Client ID: 8, Arrival Time: 29, Waiting Time: 4Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 25, Arrival Time: 36, Waiting Time: 5
+Queue 1: 
+Queue 2: 
+Queue 3: 24, 
+Queue 4: 
+Queue 5: 
+
+Time:30
+Clients Waiting:
+Client ID: 37, Arrival Time: 30, Waiting Time: 5Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 18, Arrival Time: 39, Waiting Time: 3
+Queue 1: 8, 
+Queue 2: 
+Queue 3: 24, 
+Queue 4: 
+Queue 5: 
+
+Time:31
+Clients Waiting:
+Client ID: 9, Arrival Time: 31, Waiting Time: 4Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 6, Arrival Time: 39, Waiting Time: 4
+Queue 1: 8, 
+Queue 2: 37, 
+Queue 3: 24, 
+Queue 4: 
+Queue 5: 
+
+Time:32
+Clients Waiting:
+Client ID: 47, Arrival Time: 32, Waiting Time: 5Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 27, Arrival Time: 32, Waiting Time: 5Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4
+Queue 1: 8, 
+Queue 2: 37, 
+Queue 3: 24, 
+Queue 4: 9, 
+Queue 5: 
+
+Time:33
+Clients Waiting:
+Client ID: 20, Arrival Time: 33, Waiting Time: 4Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 13, Arrival Time: 33, Waiting Time: 3Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 14, Arrival Time: 39, Waiting Time: 2
+Queue 1: 27, 
+Queue 2: 37, 
+Queue 3: 24, 
+Queue 4: 9, 
+Queue 5: 47, 
+
+Time:34
+Clients Waiting:
+Client ID: 11, Arrival Time: 34, Waiting Time: 4Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 3, Arrival Time: 34, Waiting Time: 4Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 39, Arrival Time: 39, Waiting Time: 6
+Queue 1: 27, 
+Queue 2: 37, 
+Queue 3: 
+Queue 4: 9, 20, 13, 
+Queue 5: 47, 
+
+Time:35
+Clients Waiting:
+Client ID: 46, Arrival Time: 35, Waiting Time: 2Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 32, Arrival Time: 35, Waiting Time: 5Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 26, Arrival Time: 39, Waiting Time: 4Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 18, Arrival Time: 39, Waiting Time: 3
+Queue 1: 27, 
+Queue 2: 
+Queue 3: 11, 
+Queue 4: 20, 13, 3, 
+Queue 5: 47, 
+
+Time:36
+Clients Waiting:
+Client ID: 31, Arrival Time: 36, Waiting Time: 1Client ID: 43, Arrival Time: 36, Waiting Time: 4Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 25, Arrival Time: 36, Waiting Time: 5Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 26, Arrival Time: 39, Waiting Time: 4
+Queue 1: 27, 
+Queue 2: 46, 32, 
+Queue 3: 11, 
+Queue 4: 20, 13, 3, 
+Queue 5: 47, 
+
+Time:37
+Clients Waiting:
+Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4
+Queue 1: 
+Queue 2: 32, 31, 43, 25, 
+Queue 3: 11, 
+Queue 4: 3, 
+Queue 5: 
+
+Time:38
+Clients Waiting:
+Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4
+Queue 1: 
+Queue 2: 32, 31, 43, 25, 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:39
+Clients Waiting:
+Client ID: 39, Arrival Time: 39, Waiting Time: 6Client ID: 14, Arrival Time: 39, Waiting Time: 2Client ID: 18, Arrival Time: 39, Waiting Time: 3Client ID: 6, Arrival Time: 39, Waiting Time: 4Client ID: 26, Arrival Time: 39, Waiting Time: 4
+Queue 1: 
+Queue 2: 32, 31, 43, 25, 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:40
+Clients Waiting:
+
+Queue 1: 39, 
+Queue 2: 25, 14, 
+Queue 3: 26, 
+Queue 4: 6, 
+Queue 5: 18, 
+
+Time:41
+Clients Waiting:
+
+Queue 1: 39, 
+Queue 2: 
+Queue 3: 26, 
+Queue 4: 6, 
+Queue 5: 18, 
+
+Time:42
+Clients Waiting:
+
+Queue 1: 39, 
+Queue 2: 
+Queue 3: 26, 
+Queue 4: 6, 
+Queue 5: 
+
+Time:43
+Clients Waiting:
+
+Queue 1: 39, 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:44
+Clients Waiting:
+
+Queue 1: 39, 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:45
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:46
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:47
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:48
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:49
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:50
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:51
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:52
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:53
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:54
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:55
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:56
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:57
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:58
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:59
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
+
+Time:60
+Clients Waiting:
+
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+Queue 5: 
